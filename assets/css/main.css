@@ -233,6 +233,11 @@ input, select, textarea {
 			line-height: 1.5;
 		}
 
+		h3 {
+			font-size: 1em;
+            line-height: 1.6;
+		}
+
 	}
 
 	sub {
