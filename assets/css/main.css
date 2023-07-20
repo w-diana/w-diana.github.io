@@ -206,8 +206,8 @@ input, select, textarea {
 	}
 
 	h3 {
-		font-size: 1rem;
-		line-height: 1.5;
+		font-size: 1.5rem;
+		line-height: 1.4;
 		letter-spacing: 0.5rem;
 	}
 
@@ -236,8 +236,8 @@ input, select, textarea {
 		}
 
 		h3 {
-			font-size: 1em;
-                        line-height: 1.6;
+			font-size: 1.25em;
+                        line-height: 1.5;
 		}
 
 	}
